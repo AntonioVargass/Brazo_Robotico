@@ -10,7 +10,8 @@ Fecha 17 de mayo de 2018
 - Partes del brazo impresas con impresora en 3D
 - Cables
 - Base de madera
-- 5 servo motores - Pinzas para el brazo
+- 5 servo motores 
+- Pinzas para el brazo
 - Motor a pasaos 
 - Tornillos
 - Desarmadores
