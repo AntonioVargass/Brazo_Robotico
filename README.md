@@ -20,11 +20,11 @@ El motor paso a paso conocido también como motor de pasos es un dispositivo ele
 
 En esta práctica se creó un brazo robótico, dichas partes del brazo fueron impresas con impresora en 3D una vez que se tuvieron las partes del brazo el siguiente paso fue armarlo.
 Se dividió el brazo en 5 partes. 
--Base: Aquí es donde va el motor a pasos puesto en la base de madera para que el brazo pueda girar 360 grados o si no un servomotor pero el giro será aproximadamente de 180 grados o más.
--Tronco: Va un servo motor, esta es la parte más importante del brazo ya que nos permite mover todo el brazo con las demás partes que lo integran.
+- Base: Aquí es donde va el motor a pasos puesto en la base de madera para que el brazo pueda girar 360 grados o si no un servomotor pero el giro será aproximadamente de 180 grados o más.
+- Tronco: Va un servo motor, esta es la parte más importante del brazo ya que nos permite mover todo el brazo con las demás partes que lo integran.
 - Cadera: Va otro servo motor, la cadera nos permite hacer un movimiento que mueve la muñeca y podamos tener, mejor precisión del agarre de las cosas.
 - Muñeca: Con otro servo motor controlamos los giros de la muñeca.
--Garra: De igual forma se encuentra otro servo motor y controlamos los movimientos de abrir y cerrar de la garra
+- Garra: De igual forma se encuentra otro servo motor y controlamos los movimientos de abrir y cerrar de la garra
  
 Cada parte del brazo tiene 2 botones que lo hacen funcionar y contamos con uno que hace los movimientos todos a la vez, este botón es el de limpiar. El programa de arduino lleva como nombre brazo-otro-nuevo y el de java lleva como nombre brazo, la librería que se uso para la conexión fue panamahiteck  
 
